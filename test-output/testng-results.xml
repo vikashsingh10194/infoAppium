@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Matching product found is   3]]>
+    </line>
+    <line>
+      <![CDATA[Searched product name is  Apple iPad Pro 32 GB 9.7 inch with Wi-Fi Only]]>
+    </line>
+    <line>
+      <![CDATA[Searched product price is  Rs.41900]]>
+    </line>
+    <line>
+      <![CDATA[Searched product color is   Gold]]>
+    </line>
+    <line>
+      <![CDATA[Searched product name is  Apple iPad Pro 32 GB 9.7 inch with Wi-Fi Only]]>
+    </line>
+    <line>
+      <![CDATA[Searched product price is  Rs.44900]]>
+    </line>
+    <line>
+      <![CDATA[Searched product color is   Rose Gold]]>
+    </line>
+    <line>
+      <![CDATA[Searched product name is  Apple iPad Pro 32 GB 9.7 inch with Wi-Fi+4G]]>
+    </line>
+    <line>
+      <![CDATA[Searched product price is  Rs.51490]]>
+    </line>
+    <line>
+      <![CDATA[Searched product color is   Rose Gold]]>
+    </line>
+    <line>
+      <![CDATA[Setting bean through component element ]]>
+    </line>
+    <line>
+      <![CDATA[Selected product is  Apple iPad Pro 32 GB 9.7 inch with Wi-Fi Only]]>
+    </line>
+    <line>
+      <![CDATA[Details verified successfully]]>
+    </line>
+    <line>
+      <![CDATA[My cart is verified successfully]]>
+    </line>
+    <line>
+      <![CDATA[<div style="display:block;margin-left:10px;"><div  class="pass"><span class="pass-label">P </span>Expected sorting low to high visible : Actual sorting low to high visible <a href="../img/addCartTest_1gb6p3aia8ld540686.png" target="_blank">[View Screenshot]</a> </div><div  class="pass"><span class="pass-label">P </span>Verify product Name :
+Expected: a string containing "Apple iPad Pro 32 GB 9.7 inch with Wi-Fi Only"
+     Actual: was "Apple iPad Pro 32 GB 9.7 inch with Wi-Fi Only" <a href="../img/addCartTest_nezbr2c9ynda40687.png" target="_blank">[View Screenshot]</a> </div><div  class="pass"><span class="pass-label">P </span>Verify product price :
+Expected: a string containing "41900"
+     Actual: was "41900" <a href="../img/addCartTest_76th0hmu7kze40688.png" target="_blank">[View Screenshot]</a> </div><div  class="pass"><span class="pass-label">P </span>Verify product Name :
+Expected: a string containing "Apple iPad Pro 32 GB 9.7 inch with Wi-Fi Only"
+     Actual: was "Apple iPad Pro 32 GB 9.7 inch with Wi-Fi Only" <a href="../img/addCartTest_1hipyxtz5niyj40689.png" target="_blank">[View Screenshot]</a> </div><div  class="pass"><span class="pass-label">P </span>Verify product color :
+Expected: a string containing "Gold"
+     Actual: was "Gold" <a href="../img/addCartTest_1936jt5nl2pyp40690.png" target="_blank">[View Screenshot]</a> </div><div  class="pass"><span class="pass-label">P </span>Verify product price :
+Expected: a string containing "41900"
+     Actual: was "41900" <a href="../img/addCartTest_94vlf8dei88s40691.png" target="_blank">[View Screenshot]</a> </div></div>]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="82793" started-at="2018-03-06T13:44:44Z" finished-at="2018-03-06T13:46:07Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="82793" started-at="2018-03-06T13:44:44Z" finished-at="2018-03-06T13:46:07Z">
+      <class name="com.flipkart.tests.TestPage">
+        <test-method status="PASS" signature="setupSuit(org.testng.ITestContext)[pri:0, instance:com.flipkart.tests.TestPage@130f889]" name="setupSuit" is-config="true" duration-ms="55" started-at="2018-03-06T19:14:44Z" finished-at="2018-03-06T19:14:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@163e4e87]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupSuit -->
+        <test-method status="PASS" signature="setupTest(org.testng.ITestContext)[pri:0, instance:com.flipkart.tests.TestPage@130f889]" name="setupTest" is-config="true" duration-ms="3" started-at="2018-03-06T19:14:44Z" finished-at="2018-03-06T19:14:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@163e4e87]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTest -->
+        <test-method status="PASS" signature="setup(org.testng.ITestContext)[pri:0, instance:com.flipkart.tests.TestPage@130f889]" name="setup" is-config="true" duration-ms="1" started-at="2018-03-06T19:14:44Z" finished-at="2018-03-06T19:14:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@163e4e87]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="setupMethod(java.lang.reflect.Method, org.testng.ITestContext)[pri:0, instance:com.flipkart.tests.TestPage@130f889]" name="setupMethod" is-config="true" duration-ms="1" started-at="2018-03-06T19:14:44Z" finished-at="2018-03-06T19:14:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.flipkart.tests.TestPage.addCartTest() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@163e4e87]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method status="PASS" signature="addCartTest()[pri:0, instance:com.flipkart.tests.TestPage@130f889]" name="addCartTest" duration-ms="80246" started-at="2018-03-06T19:14:44Z" finished-at="2018-03-06T19:16:05Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Matching product found is   3]]>
+            </line>
+            <line>
+              <![CDATA[Searched product name is  Apple iPad Pro 32 GB 9.7 inch with Wi-Fi Only]]>
+            </line>
+            <line>
+              <![CDATA[Searched product price is  Rs.41900]]>
+            </line>
+            <line>
+              <![CDATA[Searched product color is   Gold]]>
+            </line>
+            <line>
+              <![CDATA[Searched product name is  Apple iPad Pro 32 GB 9.7 inch with Wi-Fi Only]]>
+            </line>
+            <line>
+              <![CDATA[Searched product price is  Rs.44900]]>
+            </line>
+            <line>
+              <![CDATA[Searched product color is   Rose Gold]]>
+            </line>
+            <line>
+              <![CDATA[Searched product name is  Apple iPad Pro 32 GB 9.7 inch with Wi-Fi+4G]]>
+            </line>
+            <line>
+              <![CDATA[Searched product price is  Rs.51490]]>
+            </line>
+            <line>
+              <![CDATA[Searched product color is   Rose Gold]]>
+            </line>
+            <line>
+              <![CDATA[Setting bean through component element ]]>
+            </line>
+            <line>
+              <![CDATA[Selected product is  Apple iPad Pro 32 GB 9.7 inch with Wi-Fi Only]]>
+            </line>
+            <line>
+              <![CDATA[Details verified successfully]]>
+            </line>
+            <line>
+              <![CDATA[My cart is verified successfully]]>
+            </line>
+            <line>
+              <![CDATA[<div style="display:block;margin-left:10px;"><div  class="pass"><span class="pass-label">P </span>Expected sorting low to high visible : Actual sorting low to high visible <a href="../img/addCartTest_1gb6p3aia8ld540686.png" target="_blank">[View Screenshot]</a> </div><div  class="pass"><span class="pass-label">P </span>Verify product Name :
+Expected: a string containing "Apple iPad Pro 32 GB 9.7 inch with Wi-Fi Only"
+     Actual: was "Apple iPad Pro 32 GB 9.7 inch with Wi-Fi Only" <a href="../img/addCartTest_nezbr2c9ynda40687.png" target="_blank">[View Screenshot]</a> </div><div  class="pass"><span class="pass-label">P </span>Verify product price :
+Expected: a string containing "41900"
+     Actual: was "41900" <a href="../img/addCartTest_76th0hmu7kze40688.png" target="_blank">[View Screenshot]</a> </div><div  class="pass"><span class="pass-label">P </span>Verify product Name :
+Expected: a string containing "Apple iPad Pro 32 GB 9.7 inch with Wi-Fi Only"
+     Actual: was "Apple iPad Pro 32 GB 9.7 inch with Wi-Fi Only" <a href="../img/addCartTest_1hipyxtz5niyj40689.png" target="_blank">[View Screenshot]</a> </div><div  class="pass"><span class="pass-label">P </span>Verify product color :
+Expected: a string containing "Gold"
+     Actual: was "Gold" <a href="../img/addCartTest_1936jt5nl2pyp40690.png" target="_blank">[View Screenshot]</a> </div><div  class="pass"><span class="pass-label">P </span>Verify product price :
+Expected: a string containing "41900"
+     Actual: was "41900" <a href="../img/addCartTest_94vlf8dei88s40691.png" target="_blank">[View Screenshot]</a> </div></div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addCartTest -->
+        <test-method status="PASS" signature="afterClass(org.testng.ITestContext)[pri:0, instance:com.flipkart.tests.TestPage@130f889]" name="afterClass" is-config="true" duration-ms="1" started-at="2018-03-06T19:16:05Z" finished-at="2018-03-06T19:16:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@163e4e87]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestContext, org.testng.ITestResult)[pri:0, instance:com.flipkart.tests.TestPage@130f889]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-03-06T19:16:05Z" finished-at="2018-03-06T19:16:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@163e4e87]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name=addCartTest status=SUCCESS method=TestPage.addCartTest()[pri:0, instance:com.flipkart.tests.TestPage@130f889] output=Matching product found is   3]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest(org.testng.ITestContext)[pri:0, instance:com.flipkart.tests.TestPage@130f889]" name="afterTest" is-config="true" duration-ms="2471" started-at="2018-03-06T19:16:05Z" finished-at="2018-03-06T19:16:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@163e4e87]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuit(org.testng.ITestContext)[pri:0, instance:com.flipkart.tests.TestPage@130f889]" name="afterSuit" is-config="true" duration-ms="1" started-at="2018-03-06T19:16:07Z" finished-at="2018-03-06T19:16:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@163e4e87]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuit -->
+      </class> <!-- com.flipkart.tests.TestPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

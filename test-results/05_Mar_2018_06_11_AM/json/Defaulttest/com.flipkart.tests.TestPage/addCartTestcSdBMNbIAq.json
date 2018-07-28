@@ -1,0 +1,609 @@
+{
+  "seleniumLog": [
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=com.flipkart.android:id/btn_skip, using=id}"
+      ],
+      "result": "id: 1",
+      "subLogs": [],
+      "duration": 1525
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.id: com.flipkart.android:id/btn_skip",
+        "{\"id\":\"1\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 1281
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=\t//android.widget.ImageButton[@content-desc=\"Open Drawer\"], using=xpath}"
+      ],
+      "result": "id: 2",
+      "subLogs": [],
+      "duration": 2541
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: \t//android.widget.ImageButton[@content-desc=\"Open Drawer\"]",
+        "{\"id\":\"2\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 182
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//*[@text='Electronics'], using=xpath}"
+      ],
+      "result": "id: 3",
+      "subLogs": [],
+      "duration": 1571
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: //*[@text='Electronics']",
+        "{\"id\":\"3\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 164
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=com.flipkart.android:id/search_icon, using=id}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 1.49 seconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:32:46'\nSystem info: host: 'ICPL11528', ip: '10.11.31.97', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities [{appPackage=com.flipkart.android, deviceName=192.168.107.101:5555, fullReset=false, platform=LINUX, deviceUDID=192.168.107.101:5555, desired={appPackage=com.flipkart.android, deviceName=192.168.107.101:5555, fullReset=false, appActivity=com.flipkart.android.activity.HomeFragmentHolderActivity, browser_name=, appium-version=4.1.2, newCommandTimeout=120, no-reset=false, automationName=appium, takesScreenshot=true, javascriptEnabled=true, driver.class=io.appium.java_client.android.AndroidDriver, sessionOverride=false, platformName=Android, cssSelectorsEnabled=true, resetKeyboard=false, autoAcceptAlerts=true}, appium-version=4.1.2, newCommandTimeout=120, no-reset=false, platformVersion=5.0, webStorageEnabled=false, automationName=appium, takesScreenshot=true, javascriptEnabled=true, driver.class=io.appium.java_client.android.AndroidDriver, platformName=Android, deviceManufacturer=unknown, resetKeyboard=false, deviceScreenSize=768x1280, networkConnectionEnabled=true, warnings={}, databaseEnabled=false, appActivity=com.flipkart.android.activity.HomeFragmentHolderActivity, browser_name=, locationContextEnabled=false, deviceModel=Custom Phone - 5.0.0 - API 21 - 768x1280, sessionOverride=false, cssSelectorsEnabled=true, autoAcceptAlerts=true}]\nSession ID: 45223fb2-a070-4e87-9b16-797f5d0cfea6\n*** Element info: {Using=id, value=com.flipkart.android:id/search_icon}",
+      "subLogs": [],
+      "duration": 1495
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=com.flipkart.android:id/search_icon, using=id}"
+      ],
+      "result": "id: 4",
+      "subLogs": [],
+      "duration": 4294
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.id: com.flipkart.android:id/search_icon",
+        "{\"id\":\"4\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 632
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=com.flipkart.android:id/search_autoCompleteTextView, using=id}"
+      ],
+      "result": "id: 5",
+      "subLogs": [],
+      "duration": 789
+    },
+    {
+      "commandName": "sendKeysToElement",
+      "args": [
+        "By.id: com.flipkart.android:id/search_autoCompleteTextView",
+        "{\"id\":\"5\",\"value\":[\"Apple Ipad\"]}"
+      ],
+      "result": "sendKeysToElement:true",
+      "subLogs": [],
+      "duration": 6072
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//*[@text='apple ipad in Tablets'], using=xpath}"
+      ],
+      "result": "id: 6",
+      "subLogs": [],
+      "duration": 883
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: //*[@text='apple ipad in Tablets']",
+        "{\"id\":\"6\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 131
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//*[@text='pro'], using=xpath}"
+      ],
+      "result": "id: 7",
+      "subLogs": [],
+      "duration": 2052
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: //*[@text='pro']",
+        "{\"id\":\"7\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 160
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=com.flipkart.android:id/sort_by_image, using=id}"
+      ],
+      "result": "id: 8",
+      "subLogs": [],
+      "duration": 1206
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.id: com.flipkart.android:id/sort_by_image",
+        "{\"id\":\"8\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 1229
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//*[@text='Price -- Low to High'], using=xpath}"
+      ],
+      "result": "[id: 9]",
+      "subLogs": [],
+      "duration": 667
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//*[@text='Price -- Low to High'], using=xpath}"
+      ],
+      "result": "id: 10",
+      "subLogs": [],
+      "duration": 31
+    },
+    {
+      "commandName": "isElementDisplayed",
+      "args": [
+        "By.xpath: //*[@text='Price -- Low to High']",
+        "{\"id\":\"10\"}"
+      ],
+      "result": "isElementDisplayed:true",
+      "subLogs": [],
+      "duration": 29
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//*[@text='Price -- Low to High'], using=xpath}"
+      ],
+      "result": "id: 11",
+      "subLogs": [],
+      "duration": 49
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: //*[@text='Price -- Low to High']",
+        "{\"id\":\"11\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 1066
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//*[@resource-id ='com.flipkart.android:id/product_list_product_item_layout'], using=xpath}"
+      ],
+      "result": "[id: 12, id: 13, id: 14]",
+      "subLogs": [],
+      "duration": 1016
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//*[@resource-id ='com.flipkart.android:id/product_list_product_item_layout'], using=xpath}"
+      ],
+      "result": "[id: 15, id: 16, id: 17]",
+      "subLogs": [],
+      "duration": 125
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//*[@resource-id ='com.flipkart.android:id/product_list_product_item_layout'], using=xpath}"
+      ],
+      "result": "[id: 18, id: 19, id: 20]",
+      "subLogs": [],
+      "duration": 154
+    },
+    {
+      "commandName": "findChildElement",
+      "args": [
+        "By.xpath: //*[@resource-id ='com.flipkart.android:id/product_list_product_item_layout']",
+        "{\"using\":\"xpath\",\"id\":\"18\",\"value\":\"//*[@resource-id='com.flipkart.android:id/product_list_product_item_main_text']\"}"
+      ],
+      "result": "findChildElement:id: 21",
+      "subLogs": [],
+      "duration": 107
+    },
+    {
+      "commandName": "getElementText",
+      "args": [
+        "By.xpath: //*[@resource-id='com.flipkart.android:id/product_list_product_item_main_text']",
+        "{\"id\":\"21\"}"
+      ],
+      "result": "getElementText:Apple iPad Pro 32 GB 9.7 inch with Wi-Fi Only",
+      "subLogs": [],
+      "duration": 21
+    },
+    {
+      "commandName": "findChildElement",
+      "args": [
+        "By.xpath: //*[@resource-id ='com.flipkart.android:id/product_list_product_item_layout']",
+        "{\"using\":\"xpath\",\"id\":\"18\",\"value\":\"//*[@resource-id='com.flipkart.android:id/product_list_product_item_price']\"}"
+      ],
+      "result": "findChildElement:id: 22",
+      "subLogs": [],
+      "duration": 72
+    },
+    {
+      "commandName": "getElementText",
+      "args": [
+        "By.xpath: //*[@resource-id='com.flipkart.android:id/product_list_product_item_price']",
+        "{\"id\":\"22\"}"
+      ],
+      "result": "getElementText:Rs.41900",
+      "subLogs": [],
+      "duration": 41
+    },
+    {
+      "commandName": "findChildElement",
+      "args": [
+        "By.xpath: //*[@resource-id ='com.flipkart.android:id/product_list_product_item_layout']",
+        "{\"using\":\"xpath\",\"id\":\"18\",\"value\":\"//*[@resource-id='com.flipkart.android:id/product_list_product_item_sub_text']\"}"
+      ],
+      "result": "findChildElement:id: 23",
+      "subLogs": [],
+      "duration": 104
+    },
+    {
+      "commandName": "getElementText",
+      "args": [
+        "By.xpath: //*[@resource-id='com.flipkart.android:id/product_list_product_item_sub_text']",
+        "{\"id\":\"23\"}"
+      ],
+      "result": "getElementText:Gold",
+      "subLogs": [],
+      "duration": 166
+    },
+    {
+      "commandName": "findChildElement",
+      "args": [
+        "By.xpath: //*[@resource-id ='com.flipkart.android:id/product_list_product_item_layout']",
+        "{\"using\":\"xpath\",\"id\":\"19\",\"value\":\"//*[@resource-id='com.flipkart.android:id/product_list_product_item_main_text']\"}"
+      ],
+      "result": "findChildElement:id: 24",
+      "subLogs": [],
+      "duration": 57
+    },
+    {
+      "commandName": "getElementText",
+      "args": [
+        "By.xpath: //*[@resource-id='com.flipkart.android:id/product_list_product_item_main_text']",
+        "{\"id\":\"24\"}"
+      ],
+      "result": "getElementText:Apple iPad Pro 32 GB 9.7 inch with Wi-Fi+4G",
+      "subLogs": [],
+      "duration": 34
+    },
+    {
+      "commandName": "findChildElement",
+      "args": [
+        "By.xpath: //*[@resource-id ='com.flipkart.android:id/product_list_product_item_layout']",
+        "{\"using\":\"xpath\",\"id\":\"19\",\"value\":\"//*[@resource-id='com.flipkart.android:id/product_list_product_item_price']\"}"
+      ],
+      "result": "findChildElement:id: 25",
+      "subLogs": [],
+      "duration": 96
+    },
+    {
+      "commandName": "getElementText",
+      "args": [
+        "By.xpath: //*[@resource-id='com.flipkart.android:id/product_list_product_item_price']",
+        "{\"id\":\"25\"}"
+      ],
+      "result": "getElementText:Rs.51490",
+      "subLogs": [],
+      "duration": 26
+    },
+    {
+      "commandName": "findChildElement",
+      "args": [
+        "By.xpath: //*[@resource-id ='com.flipkart.android:id/product_list_product_item_layout']",
+        "{\"using\":\"xpath\",\"id\":\"19\",\"value\":\"//*[@resource-id='com.flipkart.android:id/product_list_product_item_sub_text']\"}"
+      ],
+      "result": "findChildElement:id: 26",
+      "subLogs": [],
+      "duration": 74
+    },
+    {
+      "commandName": "getElementText",
+      "args": [
+        "By.xpath: //*[@resource-id='com.flipkart.android:id/product_list_product_item_sub_text']",
+        "{\"id\":\"26\"}"
+      ],
+      "result": "getElementText:Rose Gold",
+      "subLogs": [],
+      "duration": 20
+    },
+    {
+      "commandName": "findChildElement",
+      "args": [
+        "By.xpath: //*[@resource-id ='com.flipkart.android:id/product_list_product_item_layout']",
+        "{\"using\":\"xpath\",\"id\":\"20\",\"value\":\"//*[@resource-id='com.flipkart.android:id/product_list_product_item_main_text']\"}"
+      ],
+      "result": "findChildElement:id: 27",
+      "subLogs": [],
+      "duration": 60
+    },
+    {
+      "commandName": "getElementText",
+      "args": [
+        "By.xpath: //*[@resource-id='com.flipkart.android:id/product_list_product_item_main_text']",
+        "{\"id\":\"27\"}"
+      ],
+      "result": "getElementText:Apple iPad Pro 256 GB 9.7 inch with Wi-Fi Only",
+      "subLogs": [],
+      "duration": 54
+    },
+    {
+      "commandName": "findChildElement",
+      "args": [
+        "By.xpath: //*[@resource-id ='com.flipkart.android:id/product_list_product_item_layout']",
+        "{\"using\":\"xpath\",\"id\":\"20\",\"value\":\"//*[@resource-id='com.flipkart.android:id/product_list_product_item_price']\"}"
+      ],
+      "result": "findChildElement:id: 28",
+      "subLogs": [],
+      "duration": 74
+    },
+    {
+      "commandName": "getElementText",
+      "args": [
+        "By.xpath: //*[@resource-id='com.flipkart.android:id/product_list_product_item_price']",
+        "{\"id\":\"28\"}"
+      ],
+      "result": "getElementText:Rs.51900",
+      "subLogs": [],
+      "duration": 20
+    },
+    {
+      "commandName": "findChildElement",
+      "args": [
+        "By.xpath: //*[@resource-id ='com.flipkart.android:id/product_list_product_item_layout']",
+        "{\"using\":\"xpath\",\"id\":\"20\",\"value\":\"//*[@resource-id='com.flipkart.android:id/product_list_product_item_sub_text']\"}"
+      ],
+      "result": "findChildElement:id: 29",
+      "subLogs": [],
+      "duration": 73
+    },
+    {
+      "commandName": "getElementText",
+      "args": [
+        "By.xpath: //*[@resource-id='com.flipkart.android:id/product_list_product_item_sub_text']",
+        "{\"id\":\"29\"}"
+      ],
+      "result": "getElementText:Rose Gold",
+      "subLogs": [],
+      "duration": 107
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//*[@resource-id ='com.flipkart.android:id/product_list_product_item_layout'], using=xpath}"
+      ],
+      "result": "[id: 30, id: 31, id: 32]",
+      "subLogs": [],
+      "duration": 115
+    },
+    {
+      "commandName": "findChildElement",
+      "args": [
+        "By.xpath: //*[@resource-id ='com.flipkart.android:id/product_list_product_item_layout']",
+        "{\"using\":\"xpath\",\"id\":\"31\",\"value\":\"//*[@resource-id='com.flipkart.android:id/product_list_product_item_main_text']\"}"
+      ],
+      "result": "findChildElement:id: 33",
+      "subLogs": [],
+      "duration": 57
+    },
+    {
+      "commandName": "getElementText",
+      "args": [
+        "By.xpath: //*[@resource-id='com.flipkart.android:id/product_list_product_item_main_text']",
+        "{\"id\":\"33\"}"
+      ],
+      "result": "getElementText:Apple iPad Pro 32 GB 9.7 inch with Wi-Fi+4G",
+      "subLogs": [],
+      "duration": 38
+    },
+    {
+      "commandName": "findChildElement",
+      "args": [
+        "By.xpath: //*[@resource-id ='com.flipkart.android:id/product_list_product_item_layout']",
+        "{\"using\":\"xpath\",\"id\":\"31\",\"value\":\"//*[@resource-id='com.flipkart.android:id/product_list_product_item_sub_text']\"}"
+      ],
+      "result": "findChildElement:id: 34",
+      "subLogs": [],
+      "duration": 59
+    },
+    {
+      "commandName": "getElementText",
+      "args": [
+        "By.xpath: //*[@resource-id='com.flipkart.android:id/product_list_product_item_sub_text']",
+        "{\"id\":\"34\"}"
+      ],
+      "result": "getElementText:Rose Gold",
+      "subLogs": [],
+      "duration": 24
+    },
+    {
+      "commandName": "findChildElement",
+      "args": [
+        "By.xpath: //*[@resource-id ='com.flipkart.android:id/product_list_product_item_layout']",
+        "{\"using\":\"xpath\",\"id\":\"31\",\"value\":\"//*[@resource-id='com.flipkart.android:id/product_list_product_item_main_text']\"}"
+      ],
+      "result": "findChildElement:id: 35",
+      "subLogs": [],
+      "duration": 115
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: //*[@resource-id='com.flipkart.android:id/product_list_product_item_main_text']",
+        "{\"id\":\"35\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 145
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//*[@text='ADD TO CART'], using=xpath}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 199 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:32:46'\nSystem info: host: 'ICPL11528', ip: '10.11.31.97', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities [{appPackage=com.flipkart.android, deviceName=192.168.107.101:5555, fullReset=false, platform=LINUX, deviceUDID=192.168.107.101:5555, desired={appPackage=com.flipkart.android, deviceName=192.168.107.101:5555, fullReset=false, appActivity=com.flipkart.android.activity.HomeFragmentHolderActivity, browser_name=, appium-version=4.1.2, newCommandTimeout=120, no-reset=false, automationName=appium, takesScreenshot=true, javascriptEnabled=true, driver.class=io.appium.java_client.android.AndroidDriver, sessionOverride=false, platformName=Android, cssSelectorsEnabled=true, resetKeyboard=false, autoAcceptAlerts=true}, appium-version=4.1.2, newCommandTimeout=120, no-reset=false, platformVersion=5.0, webStorageEnabled=false, automationName=appium, takesScreenshot=true, javascriptEnabled=true, driver.class=io.appium.java_client.android.AndroidDriver, platformName=Android, deviceManufacturer=unknown, resetKeyboard=false, deviceScreenSize=768x1280, networkConnectionEnabled=true, warnings={}, databaseEnabled=false, appActivity=com.flipkart.android.activity.HomeFragmentHolderActivity, browser_name=, locationContextEnabled=false, deviceModel=Custom Phone - 5.0.0 - API 21 - 768x1280, sessionOverride=false, cssSelectorsEnabled=true, autoAcceptAlerts=true}]\nSession ID: 45223fb2-a070-4e87-9b16-797f5d0cfea6\n*** Element info: {Using=xpath, value=//*[@text='ADD TO CART']}",
+      "subLogs": [],
+      "duration": 199
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//*[@text='ADD TO CART'], using=xpath}"
+      ],
+      "result": "id: 36",
+      "subLogs": [],
+      "duration": 714
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: //*[@text='ADD TO CART']",
+        "{\"id\":\"36\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 138
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//*[@resource-id='com.flipkart.android:id/product_ping_share_1'], using=xpath}"
+      ],
+      "result": "id: 37",
+      "subLogs": [],
+      "duration": 2927
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: //*[@resource-id='com.flipkart.android:id/product_ping_share_1']",
+        "{\"id\":\"37\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 226
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//android.widget.Button[@content-desc=\"Add\"], using=xpath}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 346
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//android.widget.Button[@content-desc=\"Add\"], using=xpath}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 1843
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//android.widget.Button[@content-desc=\"Add\"], using=xpath}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 2719
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//android.widget.Button[@content-desc=\"Add\"], using=xpath}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 2974
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//android.widget.Button[@content-desc=\"Add\"], using=xpath}"
+      ],
+      "result": "[id: 38]",
+      "subLogs": [],
+      "duration": 4621
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.view.View[@content-desc=\"CONTINUE\"], using=xpath}"
+      ],
+      "result": "id: 39",
+      "subLogs": [],
+      "duration": 121
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: //android.view.View[@content-desc=\"CONTINUE\"]",
+        "{\"id\":\"39\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 761
+    }
+  ],
+  "checkPoints": [
+    {
+      "message": "Expected sorting low to high visible : Actual sorting low to high visible",
+      "type": "Pass",
+      "screenshot": "../img/addCartTest_15eei7dbtd7j645046.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    }
+  ]
+}

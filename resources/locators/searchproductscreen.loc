@@ -1,0 +1,3 @@
+searchproductscreen.btn.search = {\"locator\":\"id=com.flipkart.android:id/search_icon\",\"desc\":\"search product\"}
+searchproductscreen.input.search = {\"locator\":\"id=com.flipkart.android:id/search_autoCompleteTextView\",\"desc\":\"search box\"}
+searchproductscreen.text.product = {\"locator\":\"xpath=//*[@text='apple ipad pro in Tablets']\",\"desc\":\"product\"}

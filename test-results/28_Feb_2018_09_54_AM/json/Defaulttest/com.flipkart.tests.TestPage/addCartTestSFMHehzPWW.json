@@ -1,0 +1,109 @@
+{
+  "seleniumLog": [
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=com.flipkart.android:id/btn_skip, using=id}"
+      ],
+      "result": "id: 1",
+      "subLogs": [],
+      "duration": 1404
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.id: com.flipkart.android:id/btn_skip",
+        "{\"id\":\"1\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 1095
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=\t//android.widget.ImageButton[@content-desc=\"Open Drawer\"], using=xpath}"
+      ],
+      "result": "id: 2",
+      "subLogs": [],
+      "duration": 1915
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: \t//android.widget.ImageButton[@content-desc=\"Open Drawer\"]",
+        "{\"id\":\"2\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 3153
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//*[@text='Electronics'], using=xpath}"
+      ],
+      "result": "id: 3",
+      "subLogs": [],
+      "duration": 107
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: //*[@text='Electronics']",
+        "{\"id\":\"3\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 1959
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=com.flipkart.android:id/search_icon, using=id}"
+      ],
+      "result": "id: 4",
+      "subLogs": [],
+      "duration": 110
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.id: com.flipkart.android:id/search_icon",
+        "{\"id\":\"4\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 145
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=com.flipkart.android:id/search_autoCompleteTextView, using=id}"
+      ],
+      "result": "id: 5",
+      "subLogs": [],
+      "duration": 743
+    },
+    {
+      "commandName": "sendKeysToElement",
+      "args": [
+        "By.id: com.flipkart.android:id/search_autoCompleteTextView",
+        "{\"id\":\"5\",\"value\":[\"Apple Ipad\"]}"
+      ],
+      "result": "sendKeysToElement:true",
+      "subLogs": [],
+      "duration": 6315
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//*[@resource-id ='com.flipkart.android:id/product_list_product_item_layout'], using=xpath}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 496
+    }
+  ],
+  "checkPoints": []
+}

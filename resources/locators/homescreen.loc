@@ -1,0 +1,2 @@
+homescreen.btn.drawer = {\"locator\":\"xpath=\\t//android.widget.ImageButton[@content-desc=\\\"Open Drawer\\\"]\",\"desc\":\"homescreen drawer\"}
+homescreen.btn.electronics = {\"locator\":\"xpath=//*[@text='%s']\",\"desc\":\"product\"}

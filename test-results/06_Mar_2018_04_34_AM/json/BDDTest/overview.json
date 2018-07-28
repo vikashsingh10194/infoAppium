@@ -1,0 +1,34 @@
+{
+  "total": 1,
+  "pass": 1,
+  "fail": 0,
+  "skip": 0,
+  "classes": [
+    "com.qmetry.qaf.automation.step.client.Scenario"
+  ],
+  "envInfo": {
+    "browser-actual-capabilities": {},
+    "isfw-build-info": {
+      "qaf-Type": "core",
+      "qaf-Revision": "12-RC3",
+      "qaf-Version": "2.1",
+      "qaf-Build-Time": "06-Aug-2017 11:49:43"
+    },
+    "run-parameters": {
+      "baseurl": "http://localhost:4723/wd/hub",
+      "resources": "resources"
+    },
+    "execution-env-info": {
+      "java.arch": "64",
+      "java.vendor": "Oracle Corporation",
+      "java.version": "1.8.0_144",
+      "os.arch": "amd64",
+      "host": "ICPL11528",
+      "os.name": "Windows 10",
+      "user.name": "Vikash.Singh",
+      "os.version": "10.0"
+    }
+  },
+  "startTime": 1520339793925,
+  "endTime": 1520339793959
+}

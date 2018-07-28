@@ -1,0 +1,4 @@
+detailpage.text.name = {\"locator\":\"xpath=//*[@text='Apple iPad Pro 32 GB 9.7 inch with Wi-Fi Only (Gold)']\",\"desc\":\"product name\"}
+detailpage.text.price = {\"locator\":\"xpath=//*[@text='41,900']\",\"desc\":\"product price\"}
+detailpage.btn.addcart = {\"locator\":\"xpath=//*[@text='ADD TO CART']\",\"desc\":\"Add to cart\"}
+detailpage.btn.cart = {\"locator\":\"xpath=//*[@resource-id='com.flipkart.android:id/upgrade_title']\",\"desc\":\"cart\"}

@@ -1,0 +1,7 @@
+searchscreen.list.product = {\"locator\":\"xpath=//*[@resource-id ='com.flipkart.android:id/product_list_product_item_layout']\",\"desc\":\"product list\"}
+searchscreen.btn.filter = {\"locator\":\"//*[@text='FILTER']\",\"desc\":\"filter button\"}
+searchscreen.btn.display = {\"locator\":\"xpath=//*[@text='Display Size']\",\"desc\":\"display button\"}
+searchscreen.btn.apply = {\"locator\":\"xpath=//*[@text='APPLY']\",\"desc\":\"apply button\"}
+searchscreen.btn.sorting = {\"locator\":\"id=com.flipkart.android:id/sort_by_image\",\"desc\":\"sorting button\"}
+searchscreen.btn.lowhigh = {\"locator\":\"xpath=//*[@text='Price -- Low to High']\",\"desc\":\"sorting low to high\"}
+searchscreen.btn.product = {\"locator\":\"xpath=//*[@text='pro']\",\"desc\":\"product pro\"}

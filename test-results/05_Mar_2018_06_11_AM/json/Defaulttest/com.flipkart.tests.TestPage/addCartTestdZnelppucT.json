@@ -1,0 +1,384 @@
+{
+  "seleniumLog": [
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=com.flipkart.android:id/btn_skip, using=id}"
+      ],
+      "result": "id: 1",
+      "subLogs": [],
+      "duration": 850
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.id: com.flipkart.android:id/btn_skip",
+        "{\"id\":\"1\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 1186
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=\t//android.widget.ImageButton[@content-desc=\"Open Drawer\"], using=xpath}"
+      ],
+      "result": "id: 2",
+      "subLogs": [],
+      "duration": 1883
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: \t//android.widget.ImageButton[@content-desc=\"Open Drawer\"]",
+        "{\"id\":\"2\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 2230
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//*[@text='Electronics'], using=xpath}"
+      ],
+      "result": "id: 3",
+      "subLogs": [],
+      "duration": 798
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: //*[@text='Electronics']",
+        "{\"id\":\"3\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 181
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=com.flipkart.android:id/search_icon, using=id}"
+      ],
+      "result": "id: 4",
+      "subLogs": [],
+      "duration": 1369
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.id: com.flipkart.android:id/search_icon",
+        "{\"id\":\"4\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 739
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=com.flipkart.android:id/search_autoCompleteTextView, using=id}"
+      ],
+      "result": "id: 5",
+      "subLogs": [],
+      "duration": 547
+    },
+    {
+      "commandName": "sendKeysToElement",
+      "args": [
+        "By.id: com.flipkart.android:id/search_autoCompleteTextView",
+        "{\"id\":\"5\",\"value\":[\"Apple Ipad\"]}"
+      ],
+      "result": "sendKeysToElement:true",
+      "subLogs": [],
+      "duration": 5127
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//*[@text='apple ipad in Tablets'], using=xpath}"
+      ],
+      "result": "id: 6",
+      "subLogs": [],
+      "duration": 852
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: //*[@text='apple ipad in Tablets']",
+        "{\"id\":\"6\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 146
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=com.flipkart.android:id/sort_by_image, using=id}"
+      ],
+      "result": "id: 7",
+      "subLogs": [],
+      "duration": 1679
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.id: com.flipkart.android:id/sort_by_image",
+        "{\"id\":\"7\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 1401
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//*[@text='Price -- Low to High'], using=xpath}"
+      ],
+      "result": "id: 8",
+      "subLogs": [],
+      "duration": 217
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: //*[@text='Price -- Low to High']",
+        "{\"id\":\"8\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 1008
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=\t/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.widget.RelativeLayout/android.widget.FrameLayout[2]/android.widget.RelativeLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.HorizontalScrollView/android.widget.LinearLayout/android.widget.LinearLayout[1]/android.widget.FrameLayout, using=xpath}"
+      ],
+      "result": "[id: 9]",
+      "subLogs": [],
+      "duration": 409
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//*[@resource-id ='com.flipkart.android:id/product_list_product_item_layout'], using=xpath}"
+      ],
+      "result": "[id: 10, id: 11, id: 12]",
+      "subLogs": [],
+      "duration": 161
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//*[@resource-id ='com.flipkart.android:id/product_list_product_item_layout'], using=xpath}"
+      ],
+      "result": "[id: 13, id: 14, id: 15]",
+      "subLogs": [],
+      "duration": 515
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//*[@resource-id ='com.flipkart.android:id/product_list_product_item_layout'], using=xpath}"
+      ],
+      "result": "[id: 16, id: 17, id: 18]",
+      "subLogs": [],
+      "duration": 107
+    },
+    {
+      "commandName": "findChildElement",
+      "args": [
+        "By.xpath: //*[@resource-id ='com.flipkart.android:id/product_list_product_item_layout']",
+        "{\"using\":\"xpath\",\"id\":\"17\",\"value\":\"//*[@resource-id='com.flipkart.android:id/product_list_product_item_main_text']\"}"
+      ],
+      "result": "findChildElement:id: 19",
+      "subLogs": [],
+      "duration": 68
+    },
+    {
+      "commandName": "getElementText",
+      "args": [
+        "By.xpath: //*[@resource-id='com.flipkart.android:id/product_list_product_item_main_text']",
+        "{\"id\":\"19\"}"
+      ],
+      "result": "getElementText:Apple iPad 32 GB 9.7 inch with Wi-Fi Only",
+      "subLogs": [],
+      "duration": 21
+    },
+    {
+      "commandName": "findChildElement",
+      "args": [
+        "By.xpath: //*[@resource-id ='com.flipkart.android:id/product_list_product_item_layout']",
+        "{\"using\":\"xpath\",\"id\":\"17\",\"value\":\"//*[@resource-id='com.flipkart.android:id/product_list_product_item_sub_text']\"}"
+      ],
+      "result": "findChildElement:id: 20",
+      "subLogs": [],
+      "duration": 84
+    },
+    {
+      "commandName": "getElementText",
+      "args": [
+        "By.xpath: //*[@resource-id='com.flipkart.android:id/product_list_product_item_sub_text']",
+        "{\"id\":\"20\"}"
+      ],
+      "result": "getElementText:Silver",
+      "subLogs": [],
+      "duration": 39
+    },
+    {
+      "commandName": "findChildElement",
+      "args": [
+        "By.xpath: //*[@resource-id ='com.flipkart.android:id/product_list_product_item_layout']",
+        "{\"using\":\"xpath\",\"id\":\"17\",\"value\":\"//*[@resource-id='com.flipkart.android:id/product_list_product_item_price']\"}"
+      ],
+      "result": "findChildElement:id: 21",
+      "subLogs": [],
+      "duration": 65
+    },
+    {
+      "commandName": "getElementText",
+      "args": [
+        "By.xpath: //*[@resource-id='com.flipkart.android:id/product_list_product_item_price']",
+        "{\"id\":\"21\"}"
+      ],
+      "result": "getElementText:Rs.22800",
+      "subLogs": [],
+      "duration": 30
+    },
+    {
+      "commandName": "findChildElement",
+      "args": [
+        "By.xpath: //*[@resource-id ='com.flipkart.android:id/product_list_product_item_layout']",
+        "{\"using\":\"xpath\",\"id\":\"17\",\"value\":\"//*[@resource-id='com.flipkart.android:id/product_list_product_item_main_text']\"}"
+      ],
+      "result": "findChildElement:id: 22",
+      "subLogs": [],
+      "duration": 53
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: //*[@resource-id='com.flipkart.android:id/product_list_product_item_main_text']",
+        "{\"id\":\"22\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 153
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//*[@text='ADD TO CART'], using=xpath}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 168 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:32:46'\nSystem info: host: 'ICPL11528', ip: '10.11.31.97', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities [{appPackage=com.flipkart.android, deviceName=192.168.107.101:5555, fullReset=false, platform=LINUX, deviceUDID=192.168.107.101:5555, desired={appPackage=com.flipkart.android, deviceName=192.168.107.101:5555, fullReset=false, appActivity=com.flipkart.android.activity.HomeFragmentHolderActivity, browser_name=, appium-version=4.1.2, newCommandTimeout=120, no-reset=false, automationName=appium, takesScreenshot=true, javascriptEnabled=true, driver.class=io.appium.java_client.android.AndroidDriver, sessionOverride=false, platformName=Android, cssSelectorsEnabled=true, resetKeyboard=false, autoAcceptAlerts=true}, appium-version=4.1.2, newCommandTimeout=120, no-reset=false, platformVersion=5.0, webStorageEnabled=false, automationName=appium, takesScreenshot=true, javascriptEnabled=true, driver.class=io.appium.java_client.android.AndroidDriver, platformName=Android, deviceManufacturer=unknown, resetKeyboard=false, deviceScreenSize=768x1280, networkConnectionEnabled=true, warnings={}, databaseEnabled=false, appActivity=com.flipkart.android.activity.HomeFragmentHolderActivity, browser_name=, locationContextEnabled=false, deviceModel=Custom Phone - 5.0.0 - API 21 - 768x1280, sessionOverride=false, cssSelectorsEnabled=true, autoAcceptAlerts=true}]\nSession ID: 6080e53e-1614-4b2a-ba38-c3c86a49da90\n*** Element info: {Using=xpath, value=//*[@text='ADD TO CART']}",
+      "subLogs": [],
+      "duration": 171
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//*[@text='ADD TO CART'], using=xpath}"
+      ],
+      "result": "id: 23",
+      "subLogs": [],
+      "duration": 645
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: //*[@text='ADD TO CART']",
+        "{\"id\":\"23\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 143
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//*[@resource-id='com.flipkart.android:id/product_ping_share_1'], using=xpath}"
+      ],
+      "result": "id: 24",
+      "subLogs": [],
+      "duration": 2829
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: //*[@resource-id='com.flipkart.android:id/product_ping_share_1']",
+        "{\"id\":\"24\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 699
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//android.widget.Button[@content-desc=\"Add\"], using=xpath}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 98
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//android.widget.Button[@content-desc=\"Add\"], using=xpath}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 979
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//android.widget.Button[@content-desc=\"Add\"], using=xpath}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 334
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//android.widget.Button[@content-desc=\"Add\"], using=xpath}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 1145
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//android.widget.Button[@content-desc=\"Add\"], using=xpath}"
+      ],
+      "result": "[id: 25]",
+      "subLogs": [],
+      "duration": 7757
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.view.View[@content-desc=\"CONTINUE\"], using=xpath}"
+      ],
+      "result": "id: 26",
+      "subLogs": [],
+      "duration": 1348
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: //android.view.View[@content-desc=\"CONTINUE\"]",
+        "{\"id\":\"26\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 3156
+    }
+  ],
+  "checkPoints": []
+}

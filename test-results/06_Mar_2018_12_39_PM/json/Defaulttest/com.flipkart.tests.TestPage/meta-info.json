@@ -1,0 +1,101 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "addCartTest",
+        "sign": "TestPage.addCartTest()[pri:0, instance:com.flipkart.tests.TestPage@130f889]"
+      },
+      "dependsOn": [],
+      "startTime": 1520340016104,
+      "duration": 80484,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "addCartTest",
+        "resultFileName": "addCartTestHgdBgjAFGW",
+        "sign": "TestPage.addCartTest()[pri:0, instance:com.flipkart.tests.TestPage@130f889]"
+      },
+      "dependsOn": [],
+      "startTime": 1520342941305,
+      "duration": 84011,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 0,
+      "retryCount": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "addCartTest",
+        "resultFileName": "addCartTestkokoJQobOS",
+        "sign": "TestPage.addCartTest()[pri:0, instance:com.flipkart.tests.TestPage@130f889]"
+      },
+      "dependsOn": [],
+      "startTime": 1520343234306,
+      "duration": 101829,
+      "result": "skip",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "addCartTest",
+        "resultFileName": "addCartTestrLhbjBUVjL",
+        "sign": "TestPage.addCartTest()[pri:0, instance:com.flipkart.tests.TestPage@130f889]"
+      },
+      "dependsOn": [],
+      "startTime": 1520343336172,
+      "duration": 31038,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 0,
+      "retryCount": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "addCartTest",
+        "resultFileName": "addCartTestoObDcnzDJa",
+        "sign": "TestPage.addCartTest()[pri:0, instance:com.flipkart.tests.TestPage@130f889]"
+      },
+      "dependsOn": [],
+      "startTime": 1520343711762,
+      "duration": 113429,
+      "result": "skip",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "addCartTest",
+        "resultFileName": "addCartTestiXgvLREWPe",
+        "sign": "TestPage.addCartTest()[pri:0, instance:com.flipkart.tests.TestPage@130f889]"
+      },
+      "dependsOn": [],
+      "startTime": 1520343884853,
+      "duration": 80246,
+      "result": "pass",
+      "passPer": 0.0
+    }
+  ]
+}

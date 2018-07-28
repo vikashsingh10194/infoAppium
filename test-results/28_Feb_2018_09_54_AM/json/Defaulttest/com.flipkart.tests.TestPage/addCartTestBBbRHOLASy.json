@@ -1,0 +1,137 @@
+{
+  "seleniumLog": [
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=com.flipkart.android:id/btn_skip, using=id}"
+      ],
+      "result": "id: 1",
+      "subLogs": [],
+      "duration": 546
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.id: com.flipkart.android:id/btn_skip",
+        "{\"id\":\"1\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 1021
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=\t//android.widget.ImageButton[@content-desc=\"Open Drawer\"], using=xpath}"
+      ],
+      "result": "id: 2",
+      "subLogs": [],
+      "duration": 1081
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: \t//android.widget.ImageButton[@content-desc=\"Open Drawer\"]",
+        "{\"id\":\"2\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 628
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//*[@text='Electronics'], using=xpath}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 1.53 seconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:32:46'\nSystem info: host: 'ICPL11528', ip: '10.11.31.97', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities [{appPackage=com.flipkart.android, deviceName=192.168.107.101:5555, fullReset=false, platform=LINUX, deviceUDID=192.168.107.101:5555, desired={appPackage=com.flipkart.android, deviceName=192.168.107.101:5555, fullReset=false, appActivity=com.flipkart.android.activity.HomeFragmentHolderActivity, browser_name=, appium-version=4.1.2, newCommandTimeout=120, no-reset=false, automationName=appium, takesScreenshot=true, javascriptEnabled=true, driver.class=io.appium.java_client.android.AndroidDriver, sessionOverride=false, platformName=Android, cssSelectorsEnabled=true, resetKeyboard=false, autoAcceptAlerts=true}, appium-version=4.1.2, newCommandTimeout=120, no-reset=false, platformVersion=5.0, webStorageEnabled=false, automationName=appium, takesScreenshot=true, javascriptEnabled=true, driver.class=io.appium.java_client.android.AndroidDriver, platformName=Android, deviceManufacturer=unknown, resetKeyboard=false, deviceScreenSize=768x1280, networkConnectionEnabled=true, warnings={}, databaseEnabled=false, appActivity=com.flipkart.android.activity.HomeFragmentHolderActivity, browser_name=, locationContextEnabled=false, deviceModel=Custom Phone - 5.0.0 - API 21 - 768x1280, sessionOverride=false, cssSelectorsEnabled=true, autoAcceptAlerts=true}]\nSession ID: fe1b24e7-2792-4356-b13a-2d0cb531ee8e\n*** Element info: {Using=xpath, value=//*[@text='Electronics']}",
+      "subLogs": [],
+      "duration": 1537
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//*[@text='Electronics'], using=xpath}"
+      ],
+      "result": "id: 3",
+      "subLogs": [],
+      "duration": 92
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: //*[@text='Electronics']",
+        "{\"id\":\"3\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 176
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=com.flipkart.android:id/search_icon, using=id}"
+      ],
+      "result": "id: 4",
+      "subLogs": [],
+      "duration": 1138
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.id: com.flipkart.android:id/search_icon",
+        "{\"id\":\"4\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 601
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=com.flipkart.android:id/search_autoCompleteTextView, using=id}"
+      ],
+      "result": "id: 5",
+      "subLogs": [],
+      "duration": 761
+    },
+    {
+      "commandName": "sendKeysToElement",
+      "args": [
+        "By.id: com.flipkart.android:id/search_autoCompleteTextView",
+        "{\"id\":\"5\",\"value\":[\"Apple Ipad\"]}"
+      ],
+      "result": "sendKeysToElement:true",
+      "subLogs": [],
+      "duration": 5753
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//*[@text='apple ipad in Tablets'], using=xpath}"
+      ],
+      "result": "id: 6",
+      "subLogs": [],
+      "duration": 907
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: //*[@text='apple ipad in Tablets']",
+        "{\"id\":\"6\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 613
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//*[@resource-id ='com.flipkart.android:id/product_list_product_item_layout'], using=xpath}"
+      ],
+      "result": "[id: 7, id: 8, id: 9]",
+      "subLogs": [],
+      "duration": 2233
+    }
+  ],
+  "checkPoints": []
+}

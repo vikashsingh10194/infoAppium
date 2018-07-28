@@ -1,0 +1,783 @@
+{
+  "seleniumLog": [
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=com.flipkart.android:id/btn_skip, using=id}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 1.33 seconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:32:46'\nSystem info: host: 'ICPL11528', ip: '10.11.31.97', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities [{appPackage=com.flipkart.android, deviceName=192.168.107.101:5555, fullReset=false, platform=LINUX, deviceUDID=192.168.107.101:5555, desired={appPackage=com.flipkart.android, deviceName=192.168.107.101:5555, fullReset=false, appActivity=com.flipkart.android.activity.HomeFragmentHolderActivity, browser_name=, appium-version=4.1.2, newCommandTimeout=120, no-reset=false, automationName=appium, takesScreenshot=true, javascriptEnabled=true, driver.class=io.appium.java_client.android.AndroidDriver, sessionOverride=false, platformName=Android, cssSelectorsEnabled=true, resetKeyboard=false, autoAcceptAlerts=true}, appium-version=4.1.2, newCommandTimeout=120, no-reset=false, platformVersion=5.0, webStorageEnabled=false, automationName=appium, takesScreenshot=true, javascriptEnabled=true, driver.class=io.appium.java_client.android.AndroidDriver, platformName=Android, deviceManufacturer=unknown, resetKeyboard=false, deviceScreenSize=768x1280, networkConnectionEnabled=true, warnings={}, databaseEnabled=false, appActivity=com.flipkart.android.activity.HomeFragmentHolderActivity, browser_name=, locationContextEnabled=false, deviceModel=Custom Phone - 5.0.0 - API 21 - 768x1280, sessionOverride=false, cssSelectorsEnabled=true, autoAcceptAlerts=true}]\nSession ID: b4474646-6a1c-4aad-a7f5-46647406ce3b\n*** Element info: {Using=id, value=com.flipkart.android:id/btn_skip}",
+      "subLogs": [],
+      "duration": 1330
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=com.flipkart.android:id/btn_skip, using=id}"
+      ],
+      "result": "id: 1",
+      "subLogs": [],
+      "duration": 19
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.id: com.flipkart.android:id/btn_skip",
+        "{\"id\":\"1\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 1003
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=\t//android.widget.ImageButton[@content-desc=\"Open Drawer\"], using=xpath}"
+      ],
+      "result": "id: 2",
+      "subLogs": [],
+      "duration": 1607
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: \t//android.widget.ImageButton[@content-desc=\"Open Drawer\"]",
+        "{\"id\":\"2\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 3162
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//*[@text='Electronics'], using=xpath}"
+      ],
+      "result": "id: 3",
+      "subLogs": [],
+      "duration": 170
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: //*[@text='Electronics']",
+        "{\"id\":\"3\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 145
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=com.flipkart.android:id/search_icon, using=id}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 2.05 seconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:32:46'\nSystem info: host: 'ICPL11528', ip: '10.11.31.97', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities [{appPackage=com.flipkart.android, deviceName=192.168.107.101:5555, fullReset=false, platform=LINUX, deviceUDID=192.168.107.101:5555, desired={appPackage=com.flipkart.android, deviceName=192.168.107.101:5555, fullReset=false, appActivity=com.flipkart.android.activity.HomeFragmentHolderActivity, browser_name=, appium-version=4.1.2, newCommandTimeout=120, no-reset=false, automationName=appium, takesScreenshot=true, javascriptEnabled=true, driver.class=io.appium.java_client.android.AndroidDriver, sessionOverride=false, platformName=Android, cssSelectorsEnabled=true, resetKeyboard=false, autoAcceptAlerts=true}, appium-version=4.1.2, newCommandTimeout=120, no-reset=false, platformVersion=5.0, webStorageEnabled=false, automationName=appium, takesScreenshot=true, javascriptEnabled=true, driver.class=io.appium.java_client.android.AndroidDriver, platformName=Android, deviceManufacturer=unknown, resetKeyboard=false, deviceScreenSize=768x1280, networkConnectionEnabled=true, warnings={}, databaseEnabled=false, appActivity=com.flipkart.android.activity.HomeFragmentHolderActivity, browser_name=, locationContextEnabled=false, deviceModel=Custom Phone - 5.0.0 - API 21 - 768x1280, sessionOverride=false, cssSelectorsEnabled=true, autoAcceptAlerts=true}]\nSession ID: b4474646-6a1c-4aad-a7f5-46647406ce3b\n*** Element info: {Using=id, value=com.flipkart.android:id/search_icon}",
+      "subLogs": [],
+      "duration": 2046
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=com.flipkart.android:id/search_icon, using=id}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 31 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:32:46'\nSystem info: host: 'ICPL11528', ip: '10.11.31.97', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities [{appPackage=com.flipkart.android, deviceName=192.168.107.101:5555, fullReset=false, platform=LINUX, deviceUDID=192.168.107.101:5555, desired={appPackage=com.flipkart.android, deviceName=192.168.107.101:5555, fullReset=false, appActivity=com.flipkart.android.activity.HomeFragmentHolderActivity, browser_name=, appium-version=4.1.2, newCommandTimeout=120, no-reset=false, automationName=appium, takesScreenshot=true, javascriptEnabled=true, driver.class=io.appium.java_client.android.AndroidDriver, sessionOverride=false, platformName=Android, cssSelectorsEnabled=true, resetKeyboard=false, autoAcceptAlerts=true}, appium-version=4.1.2, newCommandTimeout=120, no-reset=false, platformVersion=5.0, webStorageEnabled=false, automationName=appium, takesScreenshot=true, javascriptEnabled=true, driver.class=io.appium.java_client.android.AndroidDriver, platformName=Android, deviceManufacturer=unknown, resetKeyboard=false, deviceScreenSize=768x1280, networkConnectionEnabled=true, warnings={}, databaseEnabled=false, appActivity=com.flipkart.android.activity.HomeFragmentHolderActivity, browser_name=, locationContextEnabled=false, deviceModel=Custom Phone - 5.0.0 - API 21 - 768x1280, sessionOverride=false, cssSelectorsEnabled=true, autoAcceptAlerts=true}]\nSession ID: b4474646-6a1c-4aad-a7f5-46647406ce3b\n*** Element info: {Using=id, value=com.flipkart.android:id/search_icon}",
+      "subLogs": [],
+      "duration": 31
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=com.flipkart.android:id/search_icon, using=id}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 40 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:32:46'\nSystem info: host: 'ICPL11528', ip: '10.11.31.97', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities [{appPackage=com.flipkart.android, deviceName=192.168.107.101:5555, fullReset=false, platform=LINUX, deviceUDID=192.168.107.101:5555, desired={appPackage=com.flipkart.android, deviceName=192.168.107.101:5555, fullReset=false, appActivity=com.flipkart.android.activity.HomeFragmentHolderActivity, browser_name=, appium-version=4.1.2, newCommandTimeout=120, no-reset=false, automationName=appium, takesScreenshot=true, javascriptEnabled=true, driver.class=io.appium.java_client.android.AndroidDriver, sessionOverride=false, platformName=Android, cssSelectorsEnabled=true, resetKeyboard=false, autoAcceptAlerts=true}, appium-version=4.1.2, newCommandTimeout=120, no-reset=false, platformVersion=5.0, webStorageEnabled=false, automationName=appium, takesScreenshot=true, javascriptEnabled=true, driver.class=io.appium.java_client.android.AndroidDriver, platformName=Android, deviceManufacturer=unknown, resetKeyboard=false, deviceScreenSize=768x1280, networkConnectionEnabled=true, warnings={}, databaseEnabled=false, appActivity=com.flipkart.android.activity.HomeFragmentHolderActivity, browser_name=, locationContextEnabled=false, deviceModel=Custom Phone - 5.0.0 - API 21 - 768x1280, sessionOverride=false, cssSelectorsEnabled=true, autoAcceptAlerts=true}]\nSession ID: b4474646-6a1c-4aad-a7f5-46647406ce3b\n*** Element info: {Using=id, value=com.flipkart.android:id/search_icon}",
+      "subLogs": [],
+      "duration": 41
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=com.flipkart.android:id/search_icon, using=id}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 56 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:32:46'\nSystem info: host: 'ICPL11528', ip: '10.11.31.97', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities [{appPackage=com.flipkart.android, deviceName=192.168.107.101:5555, fullReset=false, platform=LINUX, deviceUDID=192.168.107.101:5555, desired={appPackage=com.flipkart.android, deviceName=192.168.107.101:5555, fullReset=false, appActivity=com.flipkart.android.activity.HomeFragmentHolderActivity, browser_name=, appium-version=4.1.2, newCommandTimeout=120, no-reset=false, automationName=appium, takesScreenshot=true, javascriptEnabled=true, driver.class=io.appium.java_client.android.AndroidDriver, sessionOverride=false, platformName=Android, cssSelectorsEnabled=true, resetKeyboard=false, autoAcceptAlerts=true}, appium-version=4.1.2, newCommandTimeout=120, no-reset=false, platformVersion=5.0, webStorageEnabled=false, automationName=appium, takesScreenshot=true, javascriptEnabled=true, driver.class=io.appium.java_client.android.AndroidDriver, platformName=Android, deviceManufacturer=unknown, resetKeyboard=false, deviceScreenSize=768x1280, networkConnectionEnabled=true, warnings={}, databaseEnabled=false, appActivity=com.flipkart.android.activity.HomeFragmentHolderActivity, browser_name=, locationContextEnabled=false, deviceModel=Custom Phone - 5.0.0 - API 21 - 768x1280, sessionOverride=false, cssSelectorsEnabled=true, autoAcceptAlerts=true}]\nSession ID: b4474646-6a1c-4aad-a7f5-46647406ce3b\n*** Element info: {Using=id, value=com.flipkart.android:id/search_icon}",
+      "subLogs": [],
+      "duration": 56
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=com.flipkart.android:id/search_icon, using=id}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 59 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:32:46'\nSystem info: host: 'ICPL11528', ip: '10.11.31.97', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities [{appPackage=com.flipkart.android, deviceName=192.168.107.101:5555, fullReset=false, platform=LINUX, deviceUDID=192.168.107.101:5555, desired={appPackage=com.flipkart.android, deviceName=192.168.107.101:5555, fullReset=false, appActivity=com.flipkart.android.activity.HomeFragmentHolderActivity, browser_name=, appium-version=4.1.2, newCommandTimeout=120, no-reset=false, automationName=appium, takesScreenshot=true, javascriptEnabled=true, driver.class=io.appium.java_client.android.AndroidDriver, sessionOverride=false, platformName=Android, cssSelectorsEnabled=true, resetKeyboard=false, autoAcceptAlerts=true}, appium-version=4.1.2, newCommandTimeout=120, no-reset=false, platformVersion=5.0, webStorageEnabled=false, automationName=appium, takesScreenshot=true, javascriptEnabled=true, driver.class=io.appium.java_client.android.AndroidDriver, platformName=Android, deviceManufacturer=unknown, resetKeyboard=false, deviceScreenSize=768x1280, networkConnectionEnabled=true, warnings={}, databaseEnabled=false, appActivity=com.flipkart.android.activity.HomeFragmentHolderActivity, browser_name=, locationContextEnabled=false, deviceModel=Custom Phone - 5.0.0 - API 21 - 768x1280, sessionOverride=false, cssSelectorsEnabled=true, autoAcceptAlerts=true}]\nSession ID: b4474646-6a1c-4aad-a7f5-46647406ce3b\n*** Element info: {Using=id, value=com.flipkart.android:id/search_icon}",
+      "subLogs": [],
+      "duration": 60
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=com.flipkart.android:id/search_icon, using=id}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 82 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:32:46'\nSystem info: host: 'ICPL11528', ip: '10.11.31.97', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities [{appPackage=com.flipkart.android, deviceName=192.168.107.101:5555, fullReset=false, platform=LINUX, deviceUDID=192.168.107.101:5555, desired={appPackage=com.flipkart.android, deviceName=192.168.107.101:5555, fullReset=false, appActivity=com.flipkart.android.activity.HomeFragmentHolderActivity, browser_name=, appium-version=4.1.2, newCommandTimeout=120, no-reset=false, automationName=appium, takesScreenshot=true, javascriptEnabled=true, driver.class=io.appium.java_client.android.AndroidDriver, sessionOverride=false, platformName=Android, cssSelectorsEnabled=true, resetKeyboard=false, autoAcceptAlerts=true}, appium-version=4.1.2, newCommandTimeout=120, no-reset=false, platformVersion=5.0, webStorageEnabled=false, automationName=appium, takesScreenshot=true, javascriptEnabled=true, driver.class=io.appium.java_client.android.AndroidDriver, platformName=Android, deviceManufacturer=unknown, resetKeyboard=false, deviceScreenSize=768x1280, networkConnectionEnabled=true, warnings={}, databaseEnabled=false, appActivity=com.flipkart.android.activity.HomeFragmentHolderActivity, browser_name=, locationContextEnabled=false, deviceModel=Custom Phone - 5.0.0 - API 21 - 768x1280, sessionOverride=false, cssSelectorsEnabled=true, autoAcceptAlerts=true}]\nSession ID: b4474646-6a1c-4aad-a7f5-46647406ce3b\n*** Element info: {Using=id, value=com.flipkart.android:id/search_icon}",
+      "subLogs": [],
+      "duration": 82
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=com.flipkart.android:id/search_icon, using=id}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 75 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:32:46'\nSystem info: host: 'ICPL11528', ip: '10.11.31.97', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities [{appPackage=com.flipkart.android, deviceName=192.168.107.101:5555, fullReset=false, platform=LINUX, deviceUDID=192.168.107.101:5555, desired={appPackage=com.flipkart.android, deviceName=192.168.107.101:5555, fullReset=false, appActivity=com.flipkart.android.activity.HomeFragmentHolderActivity, browser_name=, appium-version=4.1.2, newCommandTimeout=120, no-reset=false, automationName=appium, takesScreenshot=true, javascriptEnabled=true, driver.class=io.appium.java_client.android.AndroidDriver, sessionOverride=false, platformName=Android, cssSelectorsEnabled=true, resetKeyboard=false, autoAcceptAlerts=true}, appium-version=4.1.2, newCommandTimeout=120, no-reset=false, platformVersion=5.0, webStorageEnabled=false, automationName=appium, takesScreenshot=true, javascriptEnabled=true, driver.class=io.appium.java_client.android.AndroidDriver, platformName=Android, deviceManufacturer=unknown, resetKeyboard=false, deviceScreenSize=768x1280, networkConnectionEnabled=true, warnings={}, databaseEnabled=false, appActivity=com.flipkart.android.activity.HomeFragmentHolderActivity, browser_name=, locationContextEnabled=false, deviceModel=Custom Phone - 5.0.0 - API 21 - 768x1280, sessionOverride=false, cssSelectorsEnabled=true, autoAcceptAlerts=true}]\nSession ID: b4474646-6a1c-4aad-a7f5-46647406ce3b\n*** Element info: {Using=id, value=com.flipkart.android:id/search_icon}",
+      "subLogs": [],
+      "duration": 75
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=com.flipkart.android:id/search_icon, using=id}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 91 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:32:46'\nSystem info: host: 'ICPL11528', ip: '10.11.31.97', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities [{appPackage=com.flipkart.android, deviceName=192.168.107.101:5555, fullReset=false, platform=LINUX, deviceUDID=192.168.107.101:5555, desired={appPackage=com.flipkart.android, deviceName=192.168.107.101:5555, fullReset=false, appActivity=com.flipkart.android.activity.HomeFragmentHolderActivity, browser_name=, appium-version=4.1.2, newCommandTimeout=120, no-reset=false, automationName=appium, takesScreenshot=true, javascriptEnabled=true, driver.class=io.appium.java_client.android.AndroidDriver, sessionOverride=false, platformName=Android, cssSelectorsEnabled=true, resetKeyboard=false, autoAcceptAlerts=true}, appium-version=4.1.2, newCommandTimeout=120, no-reset=false, platformVersion=5.0, webStorageEnabled=false, automationName=appium, takesScreenshot=true, javascriptEnabled=true, driver.class=io.appium.java_client.android.AndroidDriver, platformName=Android, deviceManufacturer=unknown, resetKeyboard=false, deviceScreenSize=768x1280, networkConnectionEnabled=true, warnings={}, databaseEnabled=false, appActivity=com.flipkart.android.activity.HomeFragmentHolderActivity, browser_name=, locationContextEnabled=false, deviceModel=Custom Phone - 5.0.0 - API 21 - 768x1280, sessionOverride=false, cssSelectorsEnabled=true, autoAcceptAlerts=true}]\nSession ID: b4474646-6a1c-4aad-a7f5-46647406ce3b\n*** Element info: {Using=id, value=com.flipkart.android:id/search_icon}",
+      "subLogs": [],
+      "duration": 91
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=com.flipkart.android:id/search_icon, using=id}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 92 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:32:46'\nSystem info: host: 'ICPL11528', ip: '10.11.31.97', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities [{appPackage=com.flipkart.android, deviceName=192.168.107.101:5555, fullReset=false, platform=LINUX, deviceUDID=192.168.107.101:5555, desired={appPackage=com.flipkart.android, deviceName=192.168.107.101:5555, fullReset=false, appActivity=com.flipkart.android.activity.HomeFragmentHolderActivity, browser_name=, appium-version=4.1.2, newCommandTimeout=120, no-reset=false, automationName=appium, takesScreenshot=true, javascriptEnabled=true, driver.class=io.appium.java_client.android.AndroidDriver, sessionOverride=false, platformName=Android, cssSelectorsEnabled=true, resetKeyboard=false, autoAcceptAlerts=true}, appium-version=4.1.2, newCommandTimeout=120, no-reset=false, platformVersion=5.0, webStorageEnabled=false, automationName=appium, takesScreenshot=true, javascriptEnabled=true, driver.class=io.appium.java_client.android.AndroidDriver, platformName=Android, deviceManufacturer=unknown, resetKeyboard=false, deviceScreenSize=768x1280, networkConnectionEnabled=true, warnings={}, databaseEnabled=false, appActivity=com.flipkart.android.activity.HomeFragmentHolderActivity, browser_name=, locationContextEnabled=false, deviceModel=Custom Phone - 5.0.0 - API 21 - 768x1280, sessionOverride=false, cssSelectorsEnabled=true, autoAcceptAlerts=true}]\nSession ID: b4474646-6a1c-4aad-a7f5-46647406ce3b\n*** Element info: {Using=id, value=com.flipkart.android:id/search_icon}",
+      "subLogs": [],
+      "duration": 93
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=com.flipkart.android:id/search_icon, using=id}"
+      ],
+      "result": "id: 4",
+      "subLogs": [],
+      "duration": 1259
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.id: com.flipkart.android:id/search_icon",
+        "{\"id\":\"4\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 634
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=com.flipkart.android:id/search_autoCompleteTextView, using=id}"
+      ],
+      "result": "id: 5",
+      "subLogs": [],
+      "duration": 789
+    },
+    {
+      "commandName": "sendKeysToElement",
+      "args": [
+        "By.id: com.flipkart.android:id/search_autoCompleteTextView",
+        "{\"id\":\"5\",\"value\":[\"Apple Ipad pro\"]}"
+      ],
+      "result": "sendKeysToElement:true",
+      "subLogs": [],
+      "duration": 5811
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//*[@text='apple ipad pro in Tablets'], using=xpath}"
+      ],
+      "result": "id: 6",
+      "subLogs": [],
+      "duration": 841
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: //*[@text='apple ipad pro in Tablets']",
+        "{\"id\":\"6\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 130
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=com.flipkart.android:id/sort_by_image, using=id}"
+      ],
+      "result": "id: 7",
+      "subLogs": [],
+      "duration": 2200
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.id: com.flipkart.android:id/sort_by_image",
+        "{\"id\":\"7\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 699
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//*[@text='Price -- Low to High'], using=xpath}"
+      ],
+      "result": "[id: 8]",
+      "subLogs": [],
+      "duration": 699
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//*[@text='Price -- Low to High'], using=xpath}"
+      ],
+      "result": "id: 9",
+      "subLogs": [],
+      "duration": 68
+    },
+    {
+      "commandName": "isElementDisplayed",
+      "args": [
+        "By.xpath: //*[@text='Price -- Low to High']",
+        "{\"id\":\"9\"}"
+      ],
+      "result": "isElementDisplayed:true",
+      "subLogs": [],
+      "duration": 15
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//*[@text='Price -- Low to High'], using=xpath}"
+      ],
+      "result": "id: 10",
+      "subLogs": [],
+      "duration": 37
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: //*[@text='Price -- Low to High']",
+        "{\"id\":\"10\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 301
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//*[@text='FILTER'], using=xpath}"
+      ],
+      "result": "[id: 11]",
+      "subLogs": [],
+      "duration": 1070
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//*[@resource-id ='com.flipkart.android:id/product_list_product_item_layout'], using=xpath}"
+      ],
+      "result": "[id: 12, id: 13, id: 14]",
+      "subLogs": [],
+      "duration": 201
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//*[@resource-id ='com.flipkart.android:id/product_list_product_item_layout'], using=xpath}"
+      ],
+      "result": "[id: 15, id: 16, id: 17]",
+      "subLogs": [],
+      "duration": 472
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//*[@resource-id ='com.flipkart.android:id/product_list_product_item_layout'], using=xpath}"
+      ],
+      "result": "[id: 18, id: 19, id: 20]",
+      "subLogs": [],
+      "duration": 130
+    },
+    {
+      "commandName": "findChildElement",
+      "args": [
+        "By.xpath: //*[@resource-id ='com.flipkart.android:id/product_list_product_item_layout']",
+        "{\"using\":\"xpath\",\"id\":\"18\",\"value\":\"//*[@resource-id='com.flipkart.android:id/product_list_product_item_main_text']\"}"
+      ],
+      "result": "findChildElement:id: 21",
+      "subLogs": [],
+      "duration": 75
+    },
+    {
+      "commandName": "getElementText",
+      "args": [
+        "By.xpath: //*[@resource-id='com.flipkart.android:id/product_list_product_item_main_text']",
+        "{\"id\":\"21\"}"
+      ],
+      "result": "getElementText:Apple iPad Pro 32 GB 9.7 inch with Wi-Fi Only",
+      "subLogs": [],
+      "duration": 34
+    },
+    {
+      "commandName": "findChildElement",
+      "args": [
+        "By.xpath: //*[@resource-id ='com.flipkart.android:id/product_list_product_item_layout']",
+        "{\"using\":\"xpath\",\"id\":\"18\",\"value\":\"//*[@resource-id='com.flipkart.android:id/product_list_product_item_price']\"}"
+      ],
+      "result": "findChildElement:id: 22",
+      "subLogs": [],
+      "duration": 107
+    },
+    {
+      "commandName": "getElementText",
+      "args": [
+        "By.xpath: //*[@resource-id='com.flipkart.android:id/product_list_product_item_price']",
+        "{\"id\":\"22\"}"
+      ],
+      "result": "getElementText:Rs.41900",
+      "subLogs": [],
+      "duration": 79
+    },
+    {
+      "commandName": "findChildElement",
+      "args": [
+        "By.xpath: //*[@resource-id ='com.flipkart.android:id/product_list_product_item_layout']",
+        "{\"using\":\"xpath\",\"id\":\"18\",\"value\":\"//*[@resource-id='com.flipkart.android:id/product_list_product_item_sub_text']\"}"
+      ],
+      "result": "findChildElement:id: 23",
+      "subLogs": [],
+      "duration": 89
+    },
+    {
+      "commandName": "getElementText",
+      "args": [
+        "By.xpath: //*[@resource-id='com.flipkart.android:id/product_list_product_item_sub_text']",
+        "{\"id\":\"23\"}"
+      ],
+      "result": "getElementText:Gold",
+      "subLogs": [],
+      "duration": 32
+    },
+    {
+      "commandName": "findChildElement",
+      "args": [
+        "By.xpath: //*[@resource-id ='com.flipkart.android:id/product_list_product_item_layout']",
+        "{\"using\":\"xpath\",\"id\":\"19\",\"value\":\"//*[@resource-id='com.flipkart.android:id/product_list_product_item_main_text']\"}"
+      ],
+      "result": "findChildElement:id: 24",
+      "subLogs": [],
+      "duration": 102
+    },
+    {
+      "commandName": "getElementText",
+      "args": [
+        "By.xpath: //*[@resource-id='com.flipkart.android:id/product_list_product_item_main_text']",
+        "{\"id\":\"24\"}"
+      ],
+      "result": "getElementText:Apple iPad Pro 32 GB 9.7 inch with Wi-Fi+4G",
+      "subLogs": [],
+      "duration": 34
+    },
+    {
+      "commandName": "findChildElement",
+      "args": [
+        "By.xpath: //*[@resource-id ='com.flipkart.android:id/product_list_product_item_layout']",
+        "{\"using\":\"xpath\",\"id\":\"19\",\"value\":\"//*[@resource-id='com.flipkart.android:id/product_list_product_item_price']\"}"
+      ],
+      "result": "findChildElement:id: 25",
+      "subLogs": [],
+      "duration": 56
+    },
+    {
+      "commandName": "getElementText",
+      "args": [
+        "By.xpath: //*[@resource-id='com.flipkart.android:id/product_list_product_item_price']",
+        "{\"id\":\"25\"}"
+      ],
+      "result": "getElementText:Rs.51490",
+      "subLogs": [],
+      "duration": 21
+    },
+    {
+      "commandName": "findChildElement",
+      "args": [
+        "By.xpath: //*[@resource-id ='com.flipkart.android:id/product_list_product_item_layout']",
+        "{\"using\":\"xpath\",\"id\":\"19\",\"value\":\"//*[@resource-id='com.flipkart.android:id/product_list_product_item_sub_text']\"}"
+      ],
+      "result": "findChildElement:id: 26",
+      "subLogs": [],
+      "duration": 72
+    },
+    {
+      "commandName": "getElementText",
+      "args": [
+        "By.xpath: //*[@resource-id='com.flipkart.android:id/product_list_product_item_sub_text']",
+        "{\"id\":\"26\"}"
+      ],
+      "result": "getElementText:Rose Gold",
+      "subLogs": [],
+      "duration": 21
+    },
+    {
+      "commandName": "findChildElement",
+      "args": [
+        "By.xpath: //*[@resource-id ='com.flipkart.android:id/product_list_product_item_layout']",
+        "{\"using\":\"xpath\",\"id\":\"20\",\"value\":\"//*[@resource-id='com.flipkart.android:id/product_list_product_item_main_text']\"}"
+      ],
+      "result": "findChildElement:id: 27",
+      "subLogs": [],
+      "duration": 69
+    },
+    {
+      "commandName": "getElementText",
+      "args": [
+        "By.xpath: //*[@resource-id='com.flipkart.android:id/product_list_product_item_main_text']",
+        "{\"id\":\"27\"}"
+      ],
+      "result": "getElementText:Apple iPad Pro 256 GB 9.7 inch with Wi-Fi Only",
+      "subLogs": [],
+      "duration": 35
+    },
+    {
+      "commandName": "findChildElement",
+      "args": [
+        "By.xpath: //*[@resource-id ='com.flipkart.android:id/product_list_product_item_layout']",
+        "{\"using\":\"xpath\",\"id\":\"20\",\"value\":\"//*[@resource-id='com.flipkart.android:id/product_list_product_item_price']\"}"
+      ],
+      "result": "findChildElement:id: 28",
+      "subLogs": [],
+      "duration": 73
+    },
+    {
+      "commandName": "getElementText",
+      "args": [
+        "By.xpath: //*[@resource-id='com.flipkart.android:id/product_list_product_item_price']",
+        "{\"id\":\"28\"}"
+      ],
+      "result": "getElementText:Rs.51900",
+      "subLogs": [],
+      "duration": 26
+    },
+    {
+      "commandName": "findChildElement",
+      "args": [
+        "By.xpath: //*[@resource-id ='com.flipkart.android:id/product_list_product_item_layout']",
+        "{\"using\":\"xpath\",\"id\":\"20\",\"value\":\"//*[@resource-id='com.flipkart.android:id/product_list_product_item_sub_text']\"}"
+      ],
+      "result": "findChildElement:id: 29",
+      "subLogs": [],
+      "duration": 69
+    },
+    {
+      "commandName": "getElementText",
+      "args": [
+        "By.xpath: //*[@resource-id='com.flipkart.android:id/product_list_product_item_sub_text']",
+        "{\"id\":\"29\"}"
+      ],
+      "result": "getElementText:Rose Gold",
+      "subLogs": [],
+      "duration": 27
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//*[@resource-id ='com.flipkart.android:id/product_list_product_item_layout'], using=xpath}"
+      ],
+      "result": "[id: 30, id: 31, id: 32]",
+      "subLogs": [],
+      "duration": 117
+    },
+    {
+      "commandName": "findChildElement",
+      "args": [
+        "By.xpath: //*[@resource-id ='com.flipkart.android:id/product_list_product_item_layout']",
+        "{\"using\":\"xpath\",\"id\":\"30\",\"value\":\"//*[@resource-id='com.flipkart.android:id/product_list_product_item_main_text']\"}"
+      ],
+      "result": "findChildElement:id: 33",
+      "subLogs": [],
+      "duration": 62
+    },
+    {
+      "commandName": "getElementText",
+      "args": [
+        "By.xpath: //*[@resource-id='com.flipkart.android:id/product_list_product_item_main_text']",
+        "{\"id\":\"33\"}"
+      ],
+      "result": "getElementText:Apple iPad Pro 32 GB 9.7 inch with Wi-Fi Only",
+      "subLogs": [],
+      "duration": 41
+    },
+    {
+      "commandName": "findChildElement",
+      "args": [
+        "By.xpath: //*[@resource-id ='com.flipkart.android:id/product_list_product_item_layout']",
+        "{\"using\":\"xpath\",\"id\":\"30\",\"value\":\"//*[@resource-id='com.flipkart.android:id/product_list_product_item_sub_text']\"}"
+      ],
+      "result": "findChildElement:id: 34",
+      "subLogs": [],
+      "duration": 61
+    },
+    {
+      "commandName": "getElementText",
+      "args": [
+        "By.xpath: //*[@resource-id='com.flipkart.android:id/product_list_product_item_sub_text']",
+        "{\"id\":\"34\"}"
+      ],
+      "result": "getElementText:Gold",
+      "subLogs": [],
+      "duration": 22
+    },
+    {
+      "commandName": "findChildElement",
+      "args": [
+        "By.xpath: //*[@resource-id ='com.flipkart.android:id/product_list_product_item_layout']",
+        "{\"using\":\"xpath\",\"id\":\"30\",\"value\":\"//*[@resource-id='com.flipkart.android:id/product_list_product_item_price']\"}"
+      ],
+      "result": "findChildElement:id: 35",
+      "subLogs": [],
+      "duration": 54
+    },
+    {
+      "commandName": "getElementText",
+      "args": [
+        "By.xpath: //*[@resource-id='com.flipkart.android:id/product_list_product_item_price']",
+        "{\"id\":\"35\"}"
+      ],
+      "result": "getElementText:Rs.41900",
+      "subLogs": [],
+      "duration": 25
+    },
+    {
+      "commandName": "findChildElement",
+      "args": [
+        "By.xpath: //*[@resource-id ='com.flipkart.android:id/product_list_product_item_layout']",
+        "{\"using\":\"xpath\",\"id\":\"30\",\"value\":\"//*[@resource-id='com.flipkart.android:id/product_list_product_item_main_text']\"}"
+      ],
+      "result": "findChildElement:id: 36",
+      "subLogs": [],
+      "duration": 71
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: //*[@resource-id='com.flipkart.android:id/product_list_product_item_main_text']",
+        "{\"id\":\"36\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 152
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//*[@text='Apple iPad Pro 32 GB 9.7 inch with Wi-Fi Only (Gold)'], using=xpath}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 197 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:32:46'\nSystem info: host: 'ICPL11528', ip: '10.11.31.97', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities [{appPackage=com.flipkart.android, deviceName=192.168.107.101:5555, fullReset=false, platform=LINUX, deviceUDID=192.168.107.101:5555, desired={appPackage=com.flipkart.android, deviceName=192.168.107.101:5555, fullReset=false, appActivity=com.flipkart.android.activity.HomeFragmentHolderActivity, browser_name=, appium-version=4.1.2, newCommandTimeout=120, no-reset=false, automationName=appium, takesScreenshot=true, javascriptEnabled=true, driver.class=io.appium.java_client.android.AndroidDriver, sessionOverride=false, platformName=Android, cssSelectorsEnabled=true, resetKeyboard=false, autoAcceptAlerts=true}, appium-version=4.1.2, newCommandTimeout=120, no-reset=false, platformVersion=5.0, webStorageEnabled=false, automationName=appium, takesScreenshot=true, javascriptEnabled=true, driver.class=io.appium.java_client.android.AndroidDriver, platformName=Android, deviceManufacturer=unknown, resetKeyboard=false, deviceScreenSize=768x1280, networkConnectionEnabled=true, warnings={}, databaseEnabled=false, appActivity=com.flipkart.android.activity.HomeFragmentHolderActivity, browser_name=, locationContextEnabled=false, deviceModel=Custom Phone - 5.0.0 - API 21 - 768x1280, sessionOverride=false, cssSelectorsEnabled=true, autoAcceptAlerts=true}]\nSession ID: b4474646-6a1c-4aad-a7f5-46647406ce3b\n*** Element info: {Using=xpath, value=//*[@text='Apple iPad Pro 32 GB 9.7 inch with Wi-Fi Only (Gold)']}",
+      "subLogs": [],
+      "duration": 197
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//*[@text='Apple iPad Pro 32 GB 9.7 inch with Wi-Fi Only (Gold)'], using=xpath}"
+      ],
+      "result": "id: 37",
+      "subLogs": [],
+      "duration": 669
+    },
+    {
+      "commandName": "getElementText",
+      "args": [
+        "By.xpath: //*[@text='Apple iPad Pro 32 GB 9.7 inch with Wi-Fi Only (Gold)']",
+        "{\"id\":\"37\"}"
+      ],
+      "result": "getElementText:Apple iPad Pro 32 GB 9.7 inch with Wi-Fi Only (Gold)",
+      "subLogs": [],
+      "duration": 52
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//*[@text='Apple iPad Pro 32 GB 9.7 inch with Wi-Fi Only (Gold)'], using=xpath}"
+      ],
+      "result": "id: 38",
+      "subLogs": [],
+      "duration": 62
+    },
+    {
+      "commandName": "getElementText",
+      "args": [
+        "By.xpath: //*[@text='Apple iPad Pro 32 GB 9.7 inch with Wi-Fi Only (Gold)']",
+        "{\"id\":\"38\"}"
+      ],
+      "result": "getElementText:Apple iPad Pro 32 GB 9.7 inch with Wi-Fi Only (Gold)",
+      "subLogs": [],
+      "duration": 29
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//*[@text='Apple iPad Pro 32 GB 9.7 inch with Wi-Fi Only (Gold)'], using=xpath}"
+      ],
+      "result": "id: 39",
+      "subLogs": [],
+      "duration": 103
+    },
+    {
+      "commandName": "getElementText",
+      "args": [
+        "By.xpath: //*[@text='Apple iPad Pro 32 GB 9.7 inch with Wi-Fi Only (Gold)']",
+        "{\"id\":\"39\"}"
+      ],
+      "result": "getElementText:Apple iPad Pro 32 GB 9.7 inch with Wi-Fi Only (Gold)",
+      "subLogs": [],
+      "duration": 25
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//*[@text='41,900'], using=xpath}"
+      ],
+      "result": "id: 40",
+      "subLogs": [],
+      "duration": 107
+    },
+    {
+      "commandName": "getElementText",
+      "args": [
+        "By.xpath: //*[@text='41,900']",
+        "{\"id\":\"40\"}"
+      ],
+      "result": "getElementText:41,900",
+      "subLogs": [],
+      "duration": 78
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//*[@text='ADD TO CART'], using=xpath}"
+      ],
+      "result": "id: 41",
+      "subLogs": [],
+      "duration": 63
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: //*[@text='ADD TO CART']",
+        "{\"id\":\"41\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 129
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//*[@resource-id='com.flipkart.android:id/upgrade_title'], using=xpath}"
+      ],
+      "result": "id: 42",
+      "subLogs": [],
+      "duration": 2962
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: //*[@resource-id='com.flipkart.android:id/upgrade_title']",
+        "{\"id\":\"42\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 1008
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//android.widget.Button[@content-desc=\"Add\"], using=xpath}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 1713
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//android.widget.Button[@content-desc=\"Add\"], using=xpath}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 158
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//android.widget.Button[@content-desc=\"Add\"], using=xpath}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 2880
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//android.widget.Button[@content-desc=\"Add\"], using=xpath}"
+      ],
+      "result": "[id: 43]",
+      "subLogs": [],
+      "duration": 971
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.view.View[@content-desc=\"CONTINUE\"], using=xpath}"
+      ],
+      "result": "id: 44",
+      "subLogs": [],
+      "duration": 4060
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: //android.view.View[@content-desc=\"CONTINUE\"]",
+        "{\"id\":\"44\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 2693
+    }
+  ],
+  "checkPoints": [
+    {
+      "message": "Expected sorting low to high visible : Actual sorting low to high visible",
+      "type": "Pass",
+      "screenshot": "../img/addCartTest_1t5ejqbsc7tbu32590.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "Verify product Name :\nExpected: a string containing \"Apple iPad Pro 32 GB 9.7 inch with Wi-Fi Only\"\n     Actual: was \"Apple iPad Pro 32 GB 9.7 inch with Wi-Fi Only (Gold)\"",
+      "type": "Pass",
+      "screenshot": "../img/addCartTest_jn4hzycdna9j32591.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "Verify product price :\nExpected: a string containing \"Rs.41900\"\n     Actual: was \"41,900\"",
+      "type": "Fail",
+      "screenshot": "../img/addCartTest_1xwljtxnoqdey32592.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    }
+  ]
+}

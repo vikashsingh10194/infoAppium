@@ -1,0 +1,3 @@
+productlist.text.name = {\"locator\":\"xpath=//*[@resource-id='com.flipkart.android:id/product_list_product_item_main_text']\",\"desc\":\"phonename\"}
+productlist.text.color = {\"locator\":\"xpath=//*[@resource-id='com.flipkart.android:id/product_list_product_item_sub_text']\",\"desc\":\"phonecolor\"}
+productlist.text.price = {\"locator\":\"xpath=//*[@resource-id='com.flipkart.android:id/product_list_product_item_price']\",\"desc\":\"phoneprice\"}

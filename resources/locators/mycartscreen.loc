@@ -1,0 +1,5 @@
+mycart.btn.add = {\"locator\":\"xpath=//android.widget.Button[@content-desc=\\\"Add\\\"]\",\"desc\":\"add button\"}
+mycart.btn.continue = {\"locator\":\"xpath=//android.view.View[@content-desc=\\\"CONTINUE\\\"]\",\"desc\":\"continue button\"}
+mycart.text.name = {\"locator\":\"xpath=//android.view.View[contains(@content-desc,'Apple ')]\",\"desc\":\"product name\"}
+mycart.text.price = {\"locator\":\"xpath=//android.view.View[contains(@content-desc,'\u20B9')][2]\",\"desc\":\"product price\"}
+mycart.text.color = {\"locator\":\"xpath=//android.view.View[contains(@content-desc,'d')][2]\",\"desc\":\"product color\"}

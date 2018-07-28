@@ -1,0 +1,118 @@
+{
+  "methods": [
+    {
+      "index": 0,
+      "retryCount": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "addCartTest",
+        "sign": "TestPage.addCartTest()[pri:0, instance:com.flipkart.tests.TestPage@130f889]"
+      },
+      "dependsOn": [],
+      "startTime": 1519903759325,
+      "duration": 40533,
+      "result": "skip",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "addCartTest",
+        "resultFileName": "addCartTestFfSPdIaZJc",
+        "sign": "TestPage.addCartTest()[pri:0, instance:com.flipkart.tests.TestPage@130f889]"
+      },
+      "dependsOn": [],
+      "startTime": 1519903799906,
+      "duration": 30553,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "addCartTest",
+        "resultFileName": "addCartTestUKxNdiOPEo",
+        "sign": "TestPage.addCartTest()[pri:0, instance:com.flipkart.tests.TestPage@130f889]"
+      },
+      "dependsOn": [],
+      "startTime": 1519904732841,
+      "duration": 87689,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 0,
+      "retryCount": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "addCartTest",
+        "resultFileName": "addCartTestncpVajnmkL",
+        "sign": "TestPage.addCartTest()[pri:0, instance:com.flipkart.tests.TestPage@130f889]"
+      },
+      "dependsOn": [],
+      "startTime": 1519904839233,
+      "duration": 31635,
+      "result": "skip",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "addCartTest",
+        "resultFileName": "addCartTestQOqnOdWUIP",
+        "sign": "TestPage.addCartTest()[pri:0, instance:com.flipkart.tests.TestPage@130f889]"
+      },
+      "dependsOn": [],
+      "startTime": 1519904870915,
+      "duration": 30977,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 0,
+      "retryCount": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "addCartTest",
+        "resultFileName": "addCartTestAamzuOzvCn",
+        "sign": "TestPage.addCartTest()[pri:0, instance:com.flipkart.tests.TestPage@130f889]"
+      },
+      "dependsOn": [],
+      "startTime": 1519905029726,
+      "duration": 39101,
+      "result": "skip",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "addCartTest",
+        "resultFileName": "addCartTestYHqewRvGDG",
+        "sign": "TestPage.addCartTest()[pri:0, instance:com.flipkart.tests.TestPage@130f889]"
+      },
+      "dependsOn": [],
+      "startTime": 1519905068883,
+      "duration": 30727,
+      "result": "fail",
+      "passPer": 0.0
+    }
+  ]
+}
